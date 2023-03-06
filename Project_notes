@@ -3,7 +3,7 @@ Things needs while working on a project
 2. Needs to raise case/INC to install any software 
 3. Needs to raise ticket for any server access 
 4. AHD/Issue/ticket raise if any perticular link is not opening/working via VPN as well 
-
+5. Jenkins proxy server link configure for offline jenkins plugins installation 
 5. Internet options -connection - proxy setting (automatic/script 
 
 
