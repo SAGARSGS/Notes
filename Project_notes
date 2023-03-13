@@ -5,7 +5,7 @@ Things needs while working on a project
 4. AHD/Issue/ticket raise if any perticular link is not opening/working via VPN as well 
 5. Jenkins proxy server link configure for offline jenkins plugins installation 
 5. Internet options -connection - proxy setting (automatic/script 
-
+6. VM version = check compatible software version with their complete compatible dependencies.
 
 
 
